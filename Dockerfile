@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/jboss-webserver-3/tomcat7-openshift:latest
+FROM tutum/tomcat:latest
 
 EXPOSE 8080 8888
 
