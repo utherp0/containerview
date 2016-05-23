@@ -1,4 +1,4 @@
-FROM jboss-webserver-3/webserver30-tomcat7-openshift:latest
+FROM jboss-webserver-3/webserver30-tomcat7-openshift:1.1
 
 EXPOSE 8080 8888
 
